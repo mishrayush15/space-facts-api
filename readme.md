@@ -5,8 +5,11 @@ It also **Logs** all the logs in a seperate file *server.logs*
 
 ### Code to run on you local machine
 
-```javascript
+1. Install nodemodules
+
 npm install;
+
+2. Start the server
 
 ```javascript
 node app.js
