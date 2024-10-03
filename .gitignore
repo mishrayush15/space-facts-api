@@ -1,0 +1,24 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore dotenv environment variables
+.env
+
+# Ignore log files
+logs
+*.log
+npm-debug.log*
+
+# Ignore package-lock.json (optional, but sometimes included in gitignore)
+# package-lock.json
+
+# Ignore OS files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs, if any (e.g., dist, build)
+dist/
+build/
+
+# Ignore temporary files
+*.tmp
