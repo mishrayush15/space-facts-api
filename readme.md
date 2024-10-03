@@ -7,9 +7,12 @@ It also **Logs** all the logs in a seperate file *server.logs*
 
 1. Install nodemodules
 
+```bash
 npm install;
+```
 
 2. Start the server
 
+```bash
 ```javascript
 node app.js
