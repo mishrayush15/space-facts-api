@@ -1,3 +1,5 @@
+
+// Random Space Facts Array
 const spaceFacts = [
     "A day on Venus is longer than a year on Venus!",
     "Neutron stars can spin 600 times per second.",
